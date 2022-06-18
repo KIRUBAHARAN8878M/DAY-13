@@ -1,3 +1,5 @@
 # DAY-13
 
 ****RESPONSIVE DESIGN****
+
+****GITHUB PROFILE DESIGN****
