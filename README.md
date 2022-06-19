@@ -4,4 +4,4 @@
 
 *****GITHUB PROFILE *****
 
-=> FRONTEND DEPLOYED URL : https://meek-kitsune-0af374.netlify.app/
+=> Front-end Deployed URL : https://meek-kitsune-0af374.netlify.app/
